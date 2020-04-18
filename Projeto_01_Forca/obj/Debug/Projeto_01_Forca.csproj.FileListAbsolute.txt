@@ -1,0 +1,14 @@
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.exe.config
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.exe
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.pdb
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.csprojAssemblyReference.cache
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.csproj.CoreCompileInputs.cache
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.exe
+C:\Users\ederson.silva\source\repos\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.exe.config
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.exe
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\bin\Debug\Projeto_01_Forca.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.csprojAssemblyReference.cache
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.exe
+C:\Users\silva\OneDrive\Área de Trabalho\Projeto_01_Forca\Projeto_01_Forca\obj\Debug\Projeto_01_Forca.pdb
